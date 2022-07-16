@@ -1,0 +1,10 @@
+
+U
+java:S1118":Add a private constructor to hide the implicit public one.(ΰΚνόÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(™κό±ϋÿÿÿÿ
+S	java:S106&"9Replace this use of System.out or System.err by a logger.(™κό±ϋÿÿÿÿ
+S	java:S106:"9Replace this use of System.out or System.err by a logger.(™κό±ϋÿÿÿÿ
+Q	java:S125]"<This block of commented-out lines of code should be removed.(Ηµν‘
+‡
+java:S1192"lDefine a constant instead of duplicating this literal "No maximum exists, returning sentinel value" 3 times.(™κό±ϋÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(φΊ΄υϊÿÿÿÿ
